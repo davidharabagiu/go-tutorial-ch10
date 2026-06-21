@@ -1,4 +1,4 @@
-module github.com/davidharabagiu/go-tutorial-ch10
+module github.com/davidharabagiu/go-tutorial-ch10/v2
 
 go 1.25.10
 
